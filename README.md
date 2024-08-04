@@ -7,6 +7,9 @@ Written in Python.
 
 It is pretty easy to set it up:
 
+Project Implemented on [Academic Master](https://academic-master.com/)
+
+
 ```
 pip install pyfiglet
 python turnitin.py
